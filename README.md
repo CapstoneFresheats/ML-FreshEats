@@ -1,8 +1,8 @@
 
 <h1 align="center">
 <br>
-  <img src="Downloads/7.png" alt="FRESHEATS" width="200">
+  <img src="images/logo fresheats.png" alt="FRESHEATS" width="200">
   <br>
-  FRESHEATS
+   FRESHEATS
   <br>
 </h1>
