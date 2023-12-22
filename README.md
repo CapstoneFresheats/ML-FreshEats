@@ -40,9 +40,9 @@ The data used are fruit, vegetable, and beef data.
 - Beef Include : Fresh Beef, Stale Beef
 
 More details
-- Train : we have ....... images in total for train
-- valid : we have ....... images in total for valid
-- test  : we have ....... images in total for test
+- Train : we have 2800 images in total for train
+- valid : we have 1400 images in total for valid
+- test  : we have 1400 images in total for test
 
 Our dataset can see at [here dataset](https://drive.google.com/drive/folders/1LUxMwH_F943Jt-5u5bG8CUcSDtth2gU2?usp=drive_link )
 
