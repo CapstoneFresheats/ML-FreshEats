@@ -7,8 +7,6 @@
   <br>
 </h1>
 
-# FRESHEATS MACHINE LEARNING TEAM
-
 ## Our Capstone Team
 - Zahra Putri Zanuarti - Universitas Ahmad Dahlan – Machine Learning
 - Fatih Fauzan Kartamanah - UIN Sunan Gunung Djati Bandung – Machine Learning
@@ -23,4 +21,6 @@
 - Cloud and Deployment App - Fahrizky Syihabudin Ibrahim, Mohammad Dava Aditya
 - Android Development - Muhammad Rizki Alamsyah
 - Create UI/UX - Muhammad Rizki Alamsyah
+
+# FRESHEATS MACHINE LEARNING TEAM
 
