@@ -25,3 +25,5 @@
 ##
 # FRESHEATS MACHINE LEARNING TEAM
 
+### Machine Learning Project Overview
+We Create a machine learning model using CNN method with MobileNet architecture. Model building uses Keras and the TensorFlow framework, the model training results will be stored in the TensorFlow Lite file and imported into the project in Android Studio. The data used are fruit, vegetable, and beef data.
