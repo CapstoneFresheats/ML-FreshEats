@@ -7,20 +7,22 @@
   <br>
 </h1>
 
+## ID Team : CH2-PS510
+
 ## Our Capstone Team
-- Zahra Putri Zanuarti - Universitas Ahmad Dahlan – Machine Learning
-- Fatih Fauzan Kartamanah - UIN Sunan Gunung Djati Bandung – Machine Learning
-- Aldi Yoga Setiawan - Institut Teknologi Telkom Purwokerto – Machine Learning
-- Fahrizky Syihabudin Ibrahim - Universitas Ahmad Dahlan – Cloud Computing
-- Mohammad Dava Aditya - Institut Teknologi Sepuluh Nopember – Cloud Computing
-- Muhammad Rizki Alamsyah - Universitas Ahmad Dahlan – Mobile Development
+- Zahra Putri Zanuarti (M179BSX1640) - Universitas Ahmad Dahlan – Machine Learning
+- Fatih Fauzan Kartamanah (M547BKY4471) - UIN Sunan Gunung Djati Bandung – Machine Learning
+- Aldi Yoga Setiawan (M120BSY0241) - Institut Teknologi Telkom Purwokerto – Machine Learning
+- Fahrizky Syihabudin Ibrahim (C179BSY3995) - Universitas Ahmad Dahlan – Cloud Computing
+- Mohammad Dava Aditya (C004BSY4291) - Institut Teknologi Sepuluh Nopember – Cloud Computing
+- Muhammad Rizki Alamsyah (A179BSY2843) - Universitas Ahmad Dahlan – Mobile Development
 
 ## Roles 
-- Project Manager - Zahra Putri Zanuarti
-- Build Machine Learning Model - Zahra Putri Zanuarti, Fatih Fauzan Kartamanah, Aldi Yoga Setiawan
-- Cloud and Deployment App - Fahrizky Syihabudin Ibrahim, Mohammad Dava Aditya
-- Android Development - Muhammad Rizki Alamsyah
-- Create UI/UX - Muhammad Rizki Alamsyah
+- Project Manager - Zahra Putri Zanuarti (M179BSX1640)
+- Build Machine Learning Model - Zahra Putri Zanuarti (M179BSX1640), Fatih Fauzan Kartamanah (M547BKY4471) , Aldi Yoga Setiawan (M120BSY0241)
+- Cloud and Deployment App - Fahrizky Syihabudin Ibrahim (C179BSY3995), Mohammad Dava Aditya  (C004BSY4291)
+- Android Development - Muhammad Rizki Alamsyah (A179BSY2843)
+- Create UI/UX - Muhammad Rizki Alamsyah (A179BSY2843)
 
 ## Capstone Project Background 
 Food freshness is one of the main parameters in assessing the sustainability of its quality. Food quality is closely related to the freshness of food ingredients, which impacts on flavor, aroma, texture, as well as our health and safety. The choice of fresh ingredients is not only to fulfill culinary satisfaction, but also to ensure that the body receives the best nutrition. Food freshness reflects optimal farming and distribution practices, reducing the risk of contamination and illness that can arise from improper handling.
