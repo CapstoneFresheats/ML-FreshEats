@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="images/logo fresheats.png" alt="FRESHEATS" width="200">
+  <img src="images/logo fresheats.png" alt="FRESHEATS" width="300">
   <br>
    FRESHEATS
   <br>
