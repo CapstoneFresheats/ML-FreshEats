@@ -26,4 +26,7 @@
 # MACHINE LEARNING PROJECT
 
 ### Machine Learning Project Overview
-We aim to create an app that can assist users in determining whether food ingredients are fresh or not with utilize machine learning model.Our machine learning model using CNN method with MobileNet architecture. Model building uses Keras and the TensorFlow framework, the model training results will be stored in the TensorFlow Lite file and imported into the project in Android Studio. The data used are fruit, vegetable, and beef data. Our dataset can see at [here dataset](https://drive.google.com/drive/folders/1LUxMwH_F943Jt-5u5bG8CUcSDtth2gU2?usp=drive_link )
+We aim to create an app that can assist users in determining whether food ingredients are fresh or not with utilize machine learning model.Our machine learning model using CNN method with MobileNet architecture. Model building uses Keras and the TensorFlow framework, the model training results will be stored in the TensorFlow Lite file and imported into the project in Android Studio. 
+
+### Dataset
+The data used are fruit, vegetable, and beef data. Our dataset can see at [here dataset](https://drive.google.com/drive/folders/1LUxMwH_F943Jt-5u5bG8CUcSDtth2gU2?usp=drive_link )
