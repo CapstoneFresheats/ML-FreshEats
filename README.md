@@ -44,7 +44,7 @@ More details
 - valid : we have 1400 images in total for valid
 - test  : we have 1400 images in total for test
 
-Our dataset can see at [here dataset](https://drive.google.com/drive/folders/1LUxMwH_F943Jt-5u5bG8CUcSDtth2gU2?usp=drive_link )
+Our dataset can see at [here](https://drive.google.com/drive/folders/1LUxMwH_F943Jt-5u5bG8CUcSDtth2gU2?usp=drive_link )
 
 # Training and Testing Machine Learning Model
 This Preview Our Training and Testing ML Model
