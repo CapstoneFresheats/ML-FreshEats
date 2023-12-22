@@ -22,6 +22,11 @@
 - Android Development - Muhammad Rizki Alamsyah
 - Create UI/UX - Muhammad Rizki Alamsyah
 
+## Capstone Project Background 
+Food freshness is one of the main parameters in assessing the sustainability of its quality. Food quality is closely related to the freshness of food ingredients, which impacts on flavor, aroma, texture, as well as our health and safety. The choice of fresh ingredients is not only to fulfill culinary satisfaction, but also to ensure that the body receives the best nutrition. Food freshness reflects optimal farming and distribution practices, reducing the risk of contamination and illness that can arise from improper handling.
+
+Focusing on the freshness of food can support the improvement of personal quality of life and the creation of a sustainable food system. In the modern era of technology, innovative solutions such as Fresheats digitize the activity of checking the freshness of food. Fresheats provides information about the freshness of food ingredients and utilizes scanning technology for rapid quality assessment. This approach is not only practical but also supports a healthy and sustainable lifestyle in the digital age.
+
 ##
 # MACHINE LEARNING PROJECT
 
@@ -40,3 +45,6 @@ More details
 - test  : we have ....... images in total for test
 
 Our dataset can see at [here dataset](https://drive.google.com/drive/folders/1LUxMwH_F943Jt-5u5bG8CUcSDtth2gU2?usp=drive_link )
+
+# Training and Testing Machine Learning Model
+This Preview Our Training and Testing ML Model
