@@ -48,3 +48,19 @@ Our dataset can see at [here dataset](https://drive.google.com/drive/folders/1LU
 
 # Training and Testing Machine Learning Model
 This Preview Our Training and Testing ML Model
+
+<img align="center" src="images/13.png"></img>
+
+<img align="center" src="images/16.png"></img>
+
+<img align="center" src="images/17.png"></img>
+
+<img align="center" src="images/18.png"></img>
+
+<img align="center" src="images/19.png"></img>
+
+<img align="center" src="images/20.png"></img>
+
+<img align="center" src="images/26.png"></img>
+
+<img align="center" src="images/27.png"></img>
